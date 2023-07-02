@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Harikrishnan Ashok</h1>
 <h3 align="center">a student exploring my limits</h3>
