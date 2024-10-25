@@ -12,15 +12,15 @@
 $ system_info --tech-stack
 
 [BACKEND]
-  ├─ Go              // Primary weapon
-  ├─ Node.js         // Runtime engine
-  ├─ Express         // API craftsman
-  └─ C/C++           // Core systems
+  ├─ Go              // Loading
+  ├─ Node.js         // </3
+  ├─ Express         // ...
+  └─ C/C++           // too many points
 
 [FRONTEND]
-  ├─ React.js        // UI architect
-  ├─ Next.js         // SSR master
-  └─ JavaScript      // Magic maker
+  ├─ React.js        // Primary Weapon
+  ├─ Next.js         // Noob 4 now
+  └─ JavaScript      // no comments...
 
 [DATABASE]
   ├─ PostgreSQL      // Data guardian
@@ -28,7 +28,7 @@ $ system_info --tech-stack
 
 [TOOLS]
   ├─ Git             // Version control
-  ├─ Docker          // Container master
+  ├─ Docker          // Exploring Containers 
   └─ Bubbletea       // CLI wizard
 
 $ █
@@ -57,7 +57,6 @@ $ █
 ## 📫 Connect With Me
 <p align="left">
 <a href="mailto:harikrishnanashok2001@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-d
 </p>
 
 <div align="center">
@@ -67,4 +66,5 @@ d
 ---
 <div align="center">
   <i>Let's build something amazing together! 🚀</i>
+  <i>#IUSEARCHBTW 🤓</i>
 </div>
