@@ -8,13 +8,30 @@
 - ☕ Fueled by coffee and clean code
 
 ## 🛠️ Tech Stack
-```go
-var myStack = map[string][]string{
-    "Backend":    {"Go", "Node.js", "Express", "C/C++"},
-    "Frontend":   {"React.js", "Next.js", "JavaScript"},
-    "Database":   {"PostgreSQL", "MongoDB"},
-    "Tools":      {"Git", "Docker", "Bubbletea"},
-}
+```bash
+$ system_info --tech-stack
+
+[BACKEND]
+  ├─ Go              // Primary weapon
+  ├─ Node.js         // Runtime engine
+  ├─ Express         // API craftsman
+  └─ C/C++           // Core systems
+
+[FRONTEND]
+  ├─ React.js        // UI architect
+  ├─ Next.js         // SSR master
+  └─ JavaScript      // Magic maker
+
+[DATABASE]
+  ├─ PostgreSQL      // Data guardian
+  └─ MongoDB         // NoSQL warrior
+
+[TOOLS]
+  ├─ Git             // Version control
+  ├─ Docker          // Container master
+  └─ Bubbletea       // CLI wizard
+
+$ █
 ```
 
 <div align="center">
@@ -40,8 +57,7 @@ var myStack = map[string][]string{
 ## 📫 Connect With Me
 <p align="left">
 <a href="mailto:harikrishnanashok2001@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+d
 </p>
 
 <div align="center">
