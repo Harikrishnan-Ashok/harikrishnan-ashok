@@ -35,12 +35,12 @@ $ █
 ```
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harikrishnan-Ashok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishnan-Ashok&layout=compact&theme=gruvbox&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harikrishnan-Ashok&show_icons=true&theme=nord&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishnan-Ashok&layout=compact&theme=nord&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrishnan-Ashok&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrishnan-Ashok&theme=nord&hide_border=true"/>
 </div>
 
 ## 🔧 Technologies & Tools
