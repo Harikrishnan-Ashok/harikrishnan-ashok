@@ -1,80 +1,54 @@
-# 👋 Hello, I'm Harikrishnan Ashok!
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Harikrishnan Ashok</h1>
+<h3 align="center">Full Stack Developer | Go Enthusiast | Modern Web Builder 🚀</h3>
 
-Full Stack Developer with a passion for Go ecosystem and modern web technologies. I craft efficient, scalable solutions and love exploring elegant CLI tools with Bubbletea. Building the web, one commit at a time! 🚀
+## 👨‍💻 About Me
+- 🔭 Currently working on **CLI tools with Bubbletea & Web Applications**
+- 🌱 Learning **Next.js** and exploring **Go's ecosystem**
+- 💡 Passionate about building efficient, scalable solutions
+- ☕ Fueled by coffee and clean code
 
-## 🛠️ Tech Arsenal
-
-### Backend Sorcery
+## 🛠️ Tech Stack
+```go
+var myStack = map[string][]string{
+    "Backend":    {"Go", "Node.js", "Express", "C/C++"},
+    "Frontend":   {"React.js", "Next.js", "JavaScript"},
+    "Database":   {"PostgreSQL", "MongoDB"},
+    "Tools":      {"Git", "Docker", "Bubbletea"},
+}
 ```
-🔸 Go (Gin, Bubbletea)
-🔸 Node.js & Express
-🔸 C/C++
-```
-
-### Frontend Crafting
-```
-🔸 React.js
-🔸 Next.js
-🔸 JavaScript
-🔸 HTML/CSS
-```
-
-### Database Magic
-```
-🔸 PostgreSQL
-🔸 MongoDB
-```
-
-## 🌱 Current Ventures
-- 🚀 Diving deep into Next.js
-- 🎯 Crafting CLI experiences with Bubbletea
-- 💡 Always exploring Go's ecosystem
-
-## ⚡ Recent Projects
-1. **Bubbletea CLI Tool** - _A charming command-line interface project_
-   - Leveraging Go's Bubbletea framework
-   - Creating intuitive terminal experiences
-
-## 📊 GitHub Analytics
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harikrishnan-Ashok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <!-- Most Used Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishnan-Ashok&layout=compact&theme=tokyonight"/>
-  
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrishnan-Ashok&theme=tokyonight"/>
-  
-  <!-- Additional Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Harikrishnan-Ashok&theme=tokyonight&column=7"/>
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Harikrishnan-Ashok&theme=github"/>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Harikrishnan-Ashok&color=brightgreen"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harikrishnan-Ashok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishnan-Ashok&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-- **Languages**: Go, JavaScript, C/C++
-- **Frameworks**: Gin, Express, React, Next.js
-- **Databases**: PostgreSQL, MongoDB
-- **Tools**: Git, Docker, Bubbletea
-- **Practices**: RESTful APIs, Clean Code, CLI Development
 
-## 🤝 Let's Connect!
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrishnan-Ashok&theme=tokyonight&hide_border=true"/>
+</div>
 
-<div align="left">
-  <a href="mailto:harikrishnanashok2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- Add your other social links here with similar badges -->
+## 🔧 Technologies & Tools
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+## 📫 Connect With Me
+<p align="left">
+<a href="mailto:harikrishnanashok2001@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harikrishnan-Ashok&color=blueviolet&style=flat-square"/>
 </div>
 
 ---
-
 <div align="center">
-  <i>Happy coding! Let's build something amazing together. 🚀</i>
+  <i>Let's build something amazing together! 🚀</i>
 </div>
