@@ -37,11 +37,27 @@ Full Stack Developer with a passion for Go ecosystem and modern web technologies
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harikrishnan-Ashok&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishnan-Ashok&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harikrishnan-Ashok&theme=tokyonight)
-
-## 🔍 Skills Snapshot
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harikrishnan-Ashok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <!-- Most Used Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishnan-Ashok&layout=compact&theme=tokyonight"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrishnan-Ashok&theme=tokyonight"/>
+  
+  <!-- Additional Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Harikrishnan-Ashok&theme=tokyonight&column=7"/>
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Harikrishnan-Ashok&theme=github"/>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Harikrishnan-Ashok&color=brightgreen"/>
+</div>
 - **Languages**: Go, JavaScript, C/C++
 - **Frameworks**: Gin, Express, React, Next.js
 - **Databases**: PostgreSQL, MongoDB
